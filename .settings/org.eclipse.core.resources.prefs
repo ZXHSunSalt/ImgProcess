@@ -2,4 +2,5 @@ eclipse.preferences.version=1
 encoding//program/image_process.py=utf-8
 encoding/01-ImgContrast.py=utf-8
 encoding/<project>=UTF-8
-encoding/xml2txt.py=utf-8
+encoding/bounding_box.py=utf-8
+encoding/xmlTranverse.py=utf-8
