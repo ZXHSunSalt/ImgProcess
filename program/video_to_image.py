@@ -1,8 +1,8 @@
 # coding=utf-8
 import os
 # 全局变量
-VIDEO_PATH = input('please input the path of video:' + '\n')# 视频地址
-EXTRACT_FOLDER = input('please input the path of storing video:' + '\n') # 存放帧图片的位置
+VIDEO_PATH = input('please input the path of video:' + '\n')
+EXTRACT_FOLDER = input('please input the path of storing video:' + '\n') 
 EXTRACT_FREQUENCY = 24# 帧提取频率
 
 def directory_exits(directory):
